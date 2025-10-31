@@ -1,2 +1,6 @@
 tensorflow
 kagglehub
+pandas
+numpy
+matplotlib
+seaborn
